@@ -16,12 +16,11 @@ Not a real web browser.Just request and handle html.
         - [x] youdao.com
     - [ ] Video Stream
         - [x] bilibili.com
-    - [ ] 
-        - [ ] 
+    - [ ] ...
+        - [ ] ...
 
 - [ ] Keyword search: `search b "content_to_search` (Customed)
 - [ ] Vim-like shortcuts (Customed)
     - [ ] j: down
     - [ ] k: up
     - [ ] f: trigger redirect
-    - [ ] 
